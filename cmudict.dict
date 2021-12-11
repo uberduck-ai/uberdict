@@ -58492,6 +58492,7 @@ illegible IH2 L EH1 JH AH0 B AH0 L
 illegitimacy IH2 L IH0 JH IH1 T AH0 M AH0 S IY0
 illegitimate IH2 L IH0 JH IH1 T AH0 M IH0 T
 illes AY1 L Z
+illest IH1 L AH0 S T
 illg IH1 L G
 illicit IH2 L IH1 S AH0 T
 illicitly IH1 L IH0 S IH0 T L IY0
@@ -90252,6 +90253,7 @@ patrizio P AA0 T R IY1 Z IY0 OW0
 patrol P AH0 T R OW1 L
 patrol's P AH0 T R OW1 L Z
 patrolled P AH0 T R OW1 L D
+patrollin' P AH0 T R OW1 L IH0 N
 patrolling P AH0 T R OW1 L IH0 NG
 patrolman P AH0 T R OW1 L M AE2 N
 patrolmen P AH0 T R OW0 L M EH1 N
@@ -109088,10 +109090,10 @@ septic S EH1 P T IH0 K
 septima S EH0 P T IY1 M AH0
 septimus S EH1 P T IH0 M IH0 S
 septuagenarian S EH0 P CH UW2 AH0 JH AH0 N EH1 R IY0 AH0 N
-sepulvado S EY0 P UW0 L V AA1 D OW0
-sepulveda S EY0 P UW0 L V EY1 D AH0
 sepultura S EH1 P UH0 L T UH1 R UH0
 sepultura's S EH1 P UH0 L T UH1 R UH0 Z
+sepulvado S EY0 P UW0 L V AA1 D OW0
+sepulveda S EY0 P UW0 L V EY1 D AH0
 sequa S EH1 K W AH0
 sequa's S EH1 K W AH0 Z
 sequeira S EY0 K W EH1 R AH0
@@ -116130,9 +116132,9 @@ stillwell's S T IH1 L W EH2 L Z
 stils S T IH1 L Z
 stilson S T IH1 L S AH0 N
 stilt S T IH1 L T
-stilton S T IH1 L T AH0 N
 stilted S T IH1 L T IH0 D
 stiltner S T IH1 L T N ER0
+stilton S T IH1 L T AH0 N
 stilts S T IH1 L T S
 stilwell S T IH1 L W EH2 L
 stimac S T IH1 M AH0 K
