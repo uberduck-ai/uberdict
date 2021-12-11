@@ -1,0 +1,2 @@
+include src/uberduct/*
+graft src/uberduct/dict
