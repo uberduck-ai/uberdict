@@ -299,6 +299,7 @@ abortionists AH0 B AO1 R SH AH0 N IH0 S T S
 abortions AH0 B AO1 R SH AH0 N Z
 abortive AH0 B AO1 R T IH0 V
 aborts AH0 B AO1 R T S
+abosh AH0 B AA1 SH
 abott AH0 B AA1 T
 abou AH0 B UW1
 aboud AA0 B UW1 D
@@ -3791,6 +3792,7 @@ ampal AE1 M P AH0 L
 amparan AE1 M P ER0 AH0 N
 ampato AA2 M P AA1 T OW0
 ampco AE1 M P K OW0
+amped AE1 M P D
 amperage AE1 M P ER2 IH0 JH
 ampere AE1 M P ER2
 amperes AE1 M P ER2 Z
@@ -4324,6 +4326,7 @@ animations AE2 N AH0 M EY1 SH AH0 N Z
 animator AE1 N AH0 M EY2 T ER0
 animators AE1 N AH0 M EY2 T ER0 Z
 anime AE2 N IH0 M EY1
+anime AE1 N IH0 M EY1
 animism AE1 N AH0 M IH2 Z AH0 M
 animist AE1 N AH0 M AH0 S T
 animists AE1 N AH0 M AH0 S T S
@@ -17013,6 +17016,7 @@ bussi(2) B Y UW1 S IY0
 bussie B AH1 S IY0
 bussie(2) B Y UW1 S IY0
 bussiere B AH1 S IY0 EH0 R
+bussin B AH1 S AH0 N
 bussing B AH1 S IH0 NG
 bussinger B AH1 S IH0 N JH ER0
 bussman B AH1 S M AH0 N
@@ -18443,6 +18447,7 @@ caramandi K AE2 R AH0 M AA1 N D IY0
 caramel K EH1 R AH0 M AH0 L
 caramelize K EH1 R AH0 M AH0 L AY2 Z
 caramelized K EH1 R AH0 M AH0 L AY2 Z D
+caramelly K EH1 R AH0 M EH2 L IY0
 carangelo K AA0 R AA0 NG G EH1 L OW0
 carano K AA0 R AA1 N OW0
 caras K AA1 R AH0 Z
@@ -21124,6 +21129,7 @@ chill CH IH1 L
 chilled CH IH1 L D
 chillemi K IY0 L EH1 M IY0
 chiller CH IH1 L ER0
+chillest CH IH1 L AH0 S T
 chillicothe CH IH1 L IH0 K AO0 TH
 chillier CH IH1 L IY0 ER0
 chillies CH IH1 L IY0 Z
@@ -24982,6 +24988,7 @@ contests(4) K AH0 N T EH1 S
 context K AA1 N T EH0 K S T
 contexts K AA1 N T EH2 K S T S
 contextual K AA2 N T EH1 K S CH UW2 AH0 L
+contextually K AH0 N T EH1 K S T SH UW1 AA0 L IY0
 conti K AA1 N T IY0
 contibel K AA1 N T IH0 B AH0 L
 conticommodity K AA2 N T IH0 K AH0 M AA1 D IH0 T IY0
@@ -26429,6 +26436,7 @@ cows K AW1 Z
 cowser K AW1 Z ER0
 cowsert K AW1 S ER0 T
 cowslip K AW1 S L IH0 P
+cowslips K AW1 S L IH0 P S
 cox K AA1 K S
 cox's K AA1 K S IH0 Z
 coxe K AA1 K S
@@ -42779,6 +42787,7 @@ fingerboard F IH1 NG G ER0 B AO2 R D
 fingered F IH1 NG G ER0 D
 fingerhut F IH1 NG G ER0 HH AH2 T
 fingering F IH1 NG G ER0 IH0 NG
+fingerless F IH1 NG G ER0 L IH0 S
 fingernail F IH1 NG G ER0 N EY2 L
 fingernails F IH1 NG G ER0 N EY2 L Z
 fingerpaint F IH1 NG G ER0 P EY2 N T
@@ -48715,6 +48724,7 @@ glinka G L IH1 NG K AH0
 glinski G L IH1 N S K IY0
 glint G L IH1 N T
 glinting G L IH1 N T IH0 NG
+glints G L IH1 N T S
 glissandi G L AH0 S AA1 N D IY0
 glisson G L IH1 S AH0 N
 glisten G L IH1 S AH0 N
@@ -49129,6 +49139,7 @@ goizueta G OY2 Z W EY1 T AH0
 gojko G OY1 K AO2
 gokey G OW1 K IY2
 goksel G AO1 K S AH1 L
+goku G OW1 K UW2
 gola G OW1 L AH0
 golab G OW1 L AE2 B
 golan G OW1 L AH0 N
@@ -54707,6 +54718,7 @@ hensler HH EH1 N S AH0 L ER0
 hensler(2) HH EH1 N S L ER0
 hensley HH EH1 N Z L IY0
 henson HH EH1 N S AH0 N
+hentai HH EH1 N T AY1
 hentges HH EH1 N T JH IH0 Z
 henthorn HH EH1 N TH AO2 R N
 henthorne HH EH1 N TH AO2 R N
@@ -68969,6 +68981,7 @@ laughridge L AE1 F R IH2 JH
 laughs L AE1 F S
 laughter L AE1 F T ER0
 laughton L AO1 T AH0 N
+laughy L AE1 F IY0
 lauinger L AW1 IH0 NG ER0
 lauman L AW1 M AH0 N
 laumann L AW1 M AH0 N
@@ -75103,6 +75116,7 @@ markiewicz M AA1 R K AH0 V IH0 CH
 markin M AA1 R K IH0 N
 marking M AA1 R K IH0 NG
 markings M AA1 R K IH0 NG Z
+markiplier M AA1 R K AH0 P L IY0 ER0
 markka M AA1 R K AH0
 markkaa M AA0 R K AA1
 markkas M AA1 R K AH0 S
@@ -78865,6 +78879,7 @@ microcomputer M AY1 K R OW2 K AH0 M P Y UW1 T ER0
 microcomputers M AY1 K R OW2 K AH0 M P Y UW1 T ER0 Z
 microcosm M AY1 K R AH0 K AA2 Z AH0 M
 microcredit M AY1 K R OW2 K R EH1 D IH0 T
+microdosed M AY1 K R OW2 D OW0 S D
 microdyne M AY1 K R OW0 D AY2 N
 microeconomic M AY2 K R OW0 EH2 K AH0 N AA1 M IH0 K
 microeconomics M AY2 K R OW0 EH2 K AH0 N AA1 M IH0 K S
@@ -87580,6 +87595,7 @@ orbiter AO1 R B AH0 T ER0
 orbiters AO1 R B AH0 T ER0 Z
 orbiting AO1 R B AH0 T IH0 NG
 orbits AO1 R B AH0 T S
+orbs AO1 R B Z
 orca AO1 R K AH0
 orcas AO1 R K AH0 S
 orchard AO1 R CH ER0 D
@@ -93786,6 +93802,7 @@ pod P AA1 D
 pod's P AA1 D Z
 podany P AH0 D AO1 N IY0
 podcast P AO1 D K AE2 S T
+podcast P AA1 D K AE2 S T
 podcaster P AO1 D K AE2 S T ER0
 podcasting P AO1 D K AE2 S T IH0 NG
 podell P OW0 D EY1 L
@@ -95970,6 +95987,7 @@ problem's P R AA1 B L AH0 M Z
 problematic P R AA2 B L AH0 M AE1 T IH0 K
 problematical P R AA2 B L AH0 M AE1 T IH0 K AH0 L
 problems P R AA1 B L AH0 M Z
+probly P R AA1 B L IY0
 proboscis P R OW0 B AA1 S AH0 S
 probst P R AA1 B S T
 probursa P R OW2 B ER1 S AH0
@@ -120973,6 +120991,7 @@ testa T EH1 S T AH0
 testament T EH1 S T AH0 M AH0 N T
 testamentary T EH2 S T AH0 M EH1 N T ER0 IY0
 testaments T EH1 S T AH0 M AH0 N T S
+testasdf T EH1 S T AH0 S T F
 tested T EH1 S T IH0 D
 tester T EH1 S T ER0
 testerman T EH1 S T ER0 M AH0 N
@@ -125341,6 +125360,7 @@ unarm AH0 N AA1 R M
 unarmed AH0 N AA1 R M D
 unashamed AH2 N AH0 SH EY1 M D
 unashamedly AH2 N AH0 SH EY1 M AH0 D L IY0
+unasked AH0 N AE1 S K T
 unassailable AH2 N AH0 S EY1 L AH0 B AH0 L
 unassisted AH2 N AH0 S IH1 S T IH0 D
 unassuming AH2 N AH0 S UW1 M IH0 NG
@@ -125871,6 +125891,7 @@ unfrozen AH0 N F R OW1 Z IH0 N
 unfulfilled AH2 N F UH0 L F IH1 L D
 unfunded AH0 N F AH1 N D IH0 D
 unfunnily AH0 N F AH1 N AH0 L IY0
+unfunny AH0 N F AH1 N IY0
 unfurl AH0 N F ER1 L
 unfurled AH0 N F ER1 L D
 unfurling AH0 N F ER1 L IH0 NG
