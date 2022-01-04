@@ -75116,7 +75116,6 @@ markiewicz M AA1 R K AH0 V IH0 CH
 markin M AA1 R K IH0 N
 marking M AA1 R K IH0 NG
 markings M AA1 R K IH0 NG Z
-markiplier M AA1 R K AH0 P L IY0 ER0
 markka M AA1 R K AH0
 markkaa M AA0 R K AA1
 markkas M AA1 R K AH0 S
@@ -93801,10 +93800,9 @@ pocus P OW1 K AH0 S
 pod P AA1 D
 pod's P AA1 D Z
 podany P AH0 D AO1 N IY0
-podcast P AO1 D K AE2 S T
 podcast P AA1 D K AE2 S T
-podcaster P AO1 D K AE2 S T ER0
-podcasting P AO1 D K AE2 S T IH0 NG
+podcaster P AA1 D K AE2 S T ER0
+podcasting P AA1 D K AE2 S T IH0 NG
 podell P OW0 D EY1 L
 podesta P OW0 D EH1 S T AH0
 podge P AA1 JH
@@ -120991,7 +120989,6 @@ testa T EH1 S T AH0
 testament T EH1 S T AH0 M AH0 N T
 testamentary T EH2 S T AH0 M EH1 N T ER0 IY0
 testaments T EH1 S T AH0 M AH0 N T S
-testasdf T EH1 S T AH0 S T F
 tested T EH1 S T IH0 D
 tester T EH1 S T ER0
 testerman T EH1 S T ER0 M AH0 N
