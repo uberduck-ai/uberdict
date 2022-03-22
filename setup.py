@@ -8,9 +8,7 @@ setuptools.setup(
     version="0.0.2",
     author="Zach Wener",
     author_email="info@uberduck.ai",
-    data_files=[
-        ("dict", ["src/uberduct/dict/cmudict.dict"]),
-    ],
+    data_files=[],
     description="Augmenting the CMU dictionary",
     include_package_data=True,
     long_description=long_description,
