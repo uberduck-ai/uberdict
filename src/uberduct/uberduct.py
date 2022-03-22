@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 from requests import get
 
-pathlist = Path(os.path.dirname(__file__)).glob('languages/*')
+pathlist = Path(os.path.dirname(__file__)).glob('languages/*.dict')
 _arpabet_dict = defaultdict(list)
 
 languages = {"polish": "https://github.com/uberduck-ai/uberduct/releases/download/dictionaries/polish.dict",
