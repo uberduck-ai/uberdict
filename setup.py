@@ -5,7 +5,7 @@ with open("README", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="uberduct",
-    version="0.0.2",
+    version="0.0.4",
     author="Zach Wener",
     author_email="info@uberduck.ai",
     data_files=[
