@@ -2743,6 +2743,8 @@ alienation EY2 L IY0 AH0 N EY1 SH AH0 N
 aliens EY1 L IY0 AH0 N Z
 aliff AE1 L IH0 F
 alig AE1 L IH0 G
+aligheri AE1 L IY0 G EH2 R IY0
+aligheri's AE1 L IY0 G EH2 R IY0 Z
 alight AH0 L AY1 T
 align AH0 L AY1 N
 aligned AH0 L AY1 N D
@@ -7244,6 +7246,7 @@ avocado AE2 V AH0 K AA1 D OW0
 avocados AE2 V AH0 K AA1 D OW0 Z
 avocation AE2 V AH0 K EY1 SH AH0 N
 avocet AE1 V AH0 S EH2 T
+avodart AE1 V OW0 D AA2 R T
 avodon AE1 V AH0 D AA0 N
 avoid AH0 V OY1 D
 avoidable AH0 V OY1 D AH0 B AH0 L
@@ -14384,6 +14387,8 @@ bozza B AA1 Z AH0
 bozzi B AA1 Z IY0
 bozzo B AA1 Z OW0
 bp B IY2 P IY1
+bpm B IY2 P IY2 EH1 M
+bpms B IY2 P IY2 EH1 M Z
 bra B R AA1
 braaksma B R AA1 K S M AH0
 braasch B R AA1 SH
@@ -20205,6 +20210,7 @@ chaise SH EY1 Z
 chaisson CH EY1 S AH0 N
 chait CH EY1 T
 chajet CH AE1 JH AH0 T
+chakra SH AA1 K R AH0
 chalabi CH AH0 L AA1 B IY0
 chalasani CH AE2 L AH0 S AE1 N IY0
 chalcedony CH AE1 L S AH0 D OW2 N IY0
@@ -22479,6 +22485,7 @@ clipboard K L IH1 P B AO2 R D
 clippard K L IH1 P ER0 D
 clipped K L IH1 P T
 clipper K L IH1 P ER0
+clippercraft K L IH1 P ER0 K R AE0 F T
 clippers K L IH1 P ER0 Z
 clipping K L IH1 P IH0 NG
 clippinger K L IH1 P IH0 NG ER0
@@ -27451,6 +27458,7 @@ cspan S IY1 S P AE1 N
 cspi S IY1 EH1 S P IY1 AY1
 csv S IY1 EH1 S V IY1
 ct K AO1 R T
+cthulu K AH0 TH UW1 L UW0
 cuadra K UW0 AA1 D R AH0
 cuadrado K UW0 AA0 D R AA1 D OW0
 cuajone K Y UW1 AH0 JH OW2 N
@@ -48626,6 +48634,7 @@ glavine(2) G L AE0 V IY1 N
 glawe G L AO1
 glaxo G L AE1 K S OW0
 glaxo's G L AE1 K S OW0 Z
+glaxosmithkline G L AE2 K S OW0 S M IY0 TH K L AY1 N
 glaza G L AA1 Z AH0
 glaze G L EY1 Z
 glazebrook G L EY1 Z B R UH2 K
@@ -51706,6 +51715,7 @@ guzzling G AH1 Z AH0 L IH0 NG
 guzzling(2) G AH1 Z L IH0 NG
 guzzo G UW1 Z OW0
 gvaryahu G AH0 V EH0 R Y AA1 HH UW0
+gw JH IY2 D AH1 B AH0 L Y UW0
 gwaltney G W AO1 L T N IY0
 gwartney G W AO1 R T N IY0
 gway G W EY1
@@ -56537,6 +56547,8 @@ homogeny HH OW0 M AA1 JH AH0 N IY0
 homola HH AH0 M AA1 L AH0
 homolka HH AH0 M AA1 L K AH0
 homologous HH AA0 M AA1 L AH0 G AH0 S
+homonid HH AA1 M AH0 N IH0 D
+homonids HH AA1 M AH0 N IH0 D Z
 homonym HH AO1 M AH0 N IH0 M
 homonyms HH AO1 M AH0 N IH0 M Z
 homophobia HH OW2 M AH0 F OW1 B IY0 AH0
@@ -58182,6 +58194,7 @@ hyperborean HH AY2 P ER0 B AO1 R IY0 AH0 N
 hypercard HH AY2 P ER0 K AA1 R D
 hyperchromatic HH AY2 P ER0 K R OW0 M AE1 T IH0 K
 hypercritical HH AY2 P ER0 K R IH1 T IH0 K AH0 L
+hypercube HH AY1 P ER0 K UW1 B
 hyperdrive HH AY1 P ER0 D R AY2 V
 hyperinflation HH AY2 P ER0 IH0 N F L EY1 SH AH0 N
 hyperion HH AY0 P IH1 R IY0 AH0 N
@@ -58831,6 +58844,8 @@ immunology IH2 M Y UW0 N AA1 L AH0 JH IY0
 immunomedic IH1 M Y UW0 N OW0 M EH2 D IH0 K
 immunomedics IH1 M Y UW0 N OW0 M EH2 D IH0 K S
 immunoperoxidase IH1 M Y UW0 N OW0 P EH0 R AO1 K S IH0 D EY2 Z
+immunosuppressant IH2 M Y UW2 N OW0 S AH0 P R EH1 S AH0 N T
+immunosuppressants IH2 M Y UW2 N OW0 S AH0 P R EH1 S AH0 N T Z
 immunotherapy IH2 M Y UW0 N OW0 TH EH1 R AH0 P IY0
 immutable IH2 M Y UW1 T AH0 B AH0 L
 imnet IH1 M N EH2 T
@@ -71199,6 +71214,7 @@ lipid L AY1 P AH0 D
 lipide L IH0 P IY1 D
 lipids L IH1 P IH0 D Z
 lipinski L IH0 P IH1 N S K IY0
+lipitor L IH1 P IH0 T OW0 R
 lipka L IH1 P K AH0
 lipke L IH1 P K
 lipkin L IH1 P K IH0 N
@@ -71531,6 +71547,8 @@ lizzie L IH1 Z IY0
 lizzy L IH1 Z IY0
 ljubljana L Y UW1 B L Y AA0 N AH0
 ljubomir L Y UW1 B OW0 M IH2 R
+ll EH1 L EH1 L
+ll's EH1 L EH1 L Z
 llama L AA1 M AH0
 llamas L AA1 M AH0 Z
 llana L AE1 N AH0
@@ -77286,6 +77304,7 @@ mcright M AH0 K R AY1 T
 mcroberts M AH0 K R AA1 B ER0 T S
 mcrorie M AH0 K R AO1 R IY0
 mcroy M AH0 K R OY1
+mcs EH1 M S IY1 Z
 mcshan M AH0 K SH AE1 N
 mcshane M AH0 K SH EY1 N
 mcshea M AH0 K SH EY1
@@ -79159,6 +79178,7 @@ mikol M IH1 K AO0 L
 mikolajczak M IH0 K AA1 L AY0 CH AE0 K
 mikolajczyk M IH0 K AA1 L AY0 CH IH0 K
 mikos M AY1 K OW0 Z
+mikowski M IH0 K AW1 S K IY0
 mikrut M IH1 K R AH0 T
 miksch M IH1 K SH
 mikula M IH0 K UW1 L AH0
@@ -83514,6 +83534,7 @@ necrologists N AH0 K R AO1 L AH0 JH IH0 S T S
 necrologists(2) N AH0 K R AO1 L AH0 JH IH0 S
 necrology N AH0 K R AO1 L AH0 JH IY0
 necromancer N EH1 K R AH0 M AE2 N S ER0
+necronomicon N EH2 K R OW0 N AO1 M AH0 K AO0 N
 necromancy N EH1 K R AH0 M AE2 N S IY0
 necropolis N AH0 K R AA1 P AH0 L AH0 S
 necrosis N AH0 K R OW1 S AH0 S
@@ -84006,6 +84027,7 @@ neurons N UH1 R AA0 N Z
 neuropathy N UH1 R OW0 P AE2 TH IY0
 neuropathy(2) N UH2 R AO1 P AH0 TH IY0
 neuropathy(3) N Y UH1 R OW0 P AE2 TH IY0
+neuropeptides N UH2 R AO0 P EH1 P T AY1 D Z
 neuroscience N Y UH1 R OW0 S AY2 AH0 N S
 neuroscientist N Y UH1 R OW0 S AY2 AH0 N T IH0 S T
 neuroscientist(2) N Y UH1 R OW0 S AY2 AH0 N IH0 S T
@@ -84271,6 +84293,7 @@ newwave N UW1 W EY2 V
 nex N EH1 K S
 nexgen N EH1 K S JH EH2 N
 nexis N EH1 K S IH0 S
+nexium N EH1 K S IY0 AH0 M
 nexrad N EH1 K S R AE0 D
 next N EH1 K S T
 next(2) N EH1 K S
@@ -91526,6 +91549,7 @@ perls P ER1 L Z
 perlstein P ER1 L S T AY0 N
 perlstein(2) P ER1 L S T IY0 N
 perma P ER1 M AH0
+permafrost P ER1 M AH0 F R AA2 S T
 perman P ER1 M AH0 N
 permanence P ER1 M AH0 N AH0 N S
 permanent P ER1 M AH0 N AH0 N T
@@ -94153,6 +94177,7 @@ polyester P AA2 L IY2 EH1 S T ER0
 polyesters P AA1 L IY2 EH2 S T ER0 Z
 polyethylene P AA2 L IY2 EH1 TH AH0 L IY2 N
 polygamous P AH0 L IH1 G AH0 M AH0 S
+polygamist P AH0 L IH1 G AH0 M IH0 S T
 polygamy P AH0 L IH1 G AH0 M IY2
 polyglot P AA2 L IY2 G L AA0 T
 polygon P AA1 L IH0 G AA2 N
@@ -96823,6 +96848,8 @@ psychotherapist S AY2 K AH0 TH EH1 R AH0 P IH0 S T
 psychotherapists S AY2 K AH0 TH EH1 R AH0 P IH0 S T S
 psychotherapy S AY2 K OW0 TH EH1 R AH0 P IY0
 psychotic S AY2 K AA1 T IH0 K
+psyop S AY1 AA2 P
+psyops S AY1 AA2 P Z
 psyllium S IH1 L IY0 AH0 M
 ptacek T AA1 CH EH2 K
 ptak T AE1 K
@@ -97137,6 +97164,7 @@ purest P Y UH1 R AH0 S T
 purex P Y UH1 R EH0 K S
 purgason P ER1 G AH0 S AH0 N
 purgatory P ER1 G AH0 T AO2 R IY0
+purgatorio P ER2 G AH0 T AO1 R IY0 OW0
 purge P ER1 JH
 purged P ER1 JH D
 purges P ER1 JH IH0 Z
@@ -97414,6 +97442,7 @@ quadratic K W AA0 D R AA1 T IH0 K
 quadrennial K W AA0 D R EH1 N IY0 AH0 L
 quadrex K W AA1 D R EH0 K S
 quadriceps K W AA1 D R AH0 S EH2 P S
+quadrillion K W AA2 D R IH1 L IY0 AH0 N
 quadriplegic K W AA2 D R AH0 P L IY1 JH IH0 K
 quadruple K W AA0 D R UW1 P AH0 L
 quadrupled K W AA0 D R UW1 P AH0 L D
@@ -97752,6 +97781,7 @@ quinta K W IH1 N T AH0
 quintal K W IH1 N T AH0 L
 quintana K W IY0 N T AE1 N AH0
 quintanar K W IH1 N T AH0 N ER0
+quintagulate K W IH0 N T AE1 NG G AH0 L EY0 T
 quintanilla K W IH2 N T AH0 N IH1 L AH0
 quintela K W IY0 N T EY1 L AH0
 quinter K W IH1 N T ER0
@@ -99029,6 +99059,7 @@ read(2) R IY1 D
 read's R IY1 D Z
 readability R IY2 D AH0 B IH1 L IH0 T IY0
 readable R IY1 D AH0 B AH0 L
+readapted R IY0 AE1 D AE2 P T IH0 D
 reade R EH1 D
 reader R IY1 D ER0
 reader's R IY1 D ER0 Z
@@ -105399,6 +105430,7 @@ sadly S AE1 D L IY0
 sadness S AE1 D N AH0 S
 sado S EY1 D OW0
 sadoff S AE1 D AO2 F
+sadomasochist S EY1 D OW0 M AE1 S AH0 K IH0 S T
 sadowski S AH0 D AO1 F S K IY0
 sadowsky S AH0 D AW1 S K IY0
 sadye S AE1 D AY0
@@ -106386,6 +106418,7 @@ satans S EY1 T AH0 N Z
 satay S AE0 T EY1
 satay(2) S AA0 T EY1
 satchell S AE1 CH AH0 L
+satchel S AE1 CH AH0 L
 satcher S AE1 CH ER0
 sate S EY1 T
 sated S EY1 T IH0 D
@@ -108291,6 +108324,7 @@ seagulls S IY1 G AH2 L Z
 seahawk S IY1 HH AO2 K
 seahawks S IY1 HH AO2 K S
 seaholm S IY1 HH OW2 M
+seahorse S IY1 HH AO2 R S
 seal S IY1 L
 seal's S IY1 L Z
 sealand S IY1 L AE2 N D
@@ -112205,6 +112239,7 @@ skulks S K AH1 L K S
 skull S K AH1 L
 skullcap S K AH1 L K AE2 P
 skullcaps S K AH1 L K AE2 P S
+skullduggery S K AH2 L D AH1 G ER2 IY2
 skulls S K AH1 L Z
 skunk S K AH1 NG K
 skunks S K AH1 NG K S
@@ -117582,6 +117617,7 @@ submerse S AH0 B M ER1 S
 submersed S AH0 B M ER1 S T
 submersible S AH0 B M ER1 S IH0 B AH0 L
 submersion S AH0 B M ER1 ZH AH0 N
+submicron S AH1 B M AY2 K R AO0 N
 subminimum S AH0 B M IH1 N IH0 M AH0 M
 submission S AH0 B M IH1 SH AH0 N
 submissions S AH0 B M IH1 SH AH0 N Z
@@ -120169,6 +120205,7 @@ taxis T AE1 K S IY0 Z
 taxiway T AE1 K S IY0 W EY0
 taxol T AE1 K S AA2 L
 taxonomies T AE2 K S AO1 N AH0 M IY2 Z
+taxonomical T AE2 K S AH0 N AA1 M IH0 K AH0 L
 taxonomy T AE2 K S AO1 N AH0 M IY2
 taxpayer T AE1 K S P EY2 ER0
 taxpayer's T AE1 K S P EY2 ER0 Z
@@ -125311,6 +125348,7 @@ unaccountably AH2 N AH0 K AW1 N T AH0 B L IY0
 unaccounted AH2 N AH0 K AW1 N T IH0 D
 unaccredited AH2 N AH0 K R EH1 D IH2 T IH0 D
 unaccustomed AH2 N AH0 K AH1 S T AH0 M D
+unacknowledged AH2 N AH0 K N AA1 L IH0 JH D
 unaddressed AH2 N AH0 D R EH1 S T
 unadjust AH2 N AH0 JH AH1 S T
 unadjustable AH2 N AH0 JH AH1 S T IH0 B AH0 L
@@ -133176,6 +133214,7 @@ woodward's W UH1 D W ER0 D Z
 woodwind W UH1 D W IH2 N D
 woodwind's W UH1 D W IH2 N D Z
 woodwinds W UH1 D W IH2 N D Z
+woodwing W UH1 D W IH0 NG
 woodwork W UH1 D W ER2 K
 woodworker W UH1 D W ER2 K ER0
 woodworkers W UH1 D W ER2 K ER0 Z
